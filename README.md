@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vinicius-mouzinho
-- 👀 I’m interested in back-end
-- 🌱 I’m currently learning Python and Django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: viniciuscmouzinho@gmail.com
+## Olá! Eu sou o Vinícius Mouzinho
+
+- 👀 Estou interessado em ser um dev back-end
+- 🌱 Atualmente, estou aprendendo Django e MySQL
+- 📫 Como me contatar: viniciuscmouzinho@gmail.com
 
 <!---
 vinicius-mouzinho/vinicius-mouzinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
