@@ -1,4 +1,4 @@
-## Olá! Eu sou o Vinícius Mouzinho, estudante de programação interessado em Back-End.
+## Olá! Eu sou o Vinícius Mouzinho, estudante de programação interessado em Ciência de Dados.
 
 <div align="center">
 
