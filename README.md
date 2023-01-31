@@ -15,7 +15,6 @@
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Vini-pic" height="150" style="border-radius:50px;" src="https://images-ext-2.discordapp.net/external/6PMHF7ap8NOw1-PgNGwscGd3sv3q3COVj6OGPfWs5XE/https/picrew.me/shareImg/org/202208/338224_2WvC3a7D.png">
  
 </div>
 
