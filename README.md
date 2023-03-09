@@ -1,4 +1,4 @@
-## Olá! Eu sou Vinícius Mouzinho, estudante de programação interessado em Ciência de Dados.
+## Olá! Eu sou Vinícius Mouzinho, estudante de programação interessado em ser um Desenvolvedor Full-Stack.
 
 <div align="center">
 
